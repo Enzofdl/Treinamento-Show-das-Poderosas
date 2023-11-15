@@ -1,8 +1,8 @@
 ## Metas de Aprendizado Iniciais - Treinamento de Algorítimos
 
  - [ ] Começar a transitar do C para C++
-   - [ ] Vector
-   - [ ] Metodos de Ordenação
+   - [X] Vector
+   - [X] Metodos de Ordenação
    - [ ] STL
    - [ ] Naturalizar C++
          
