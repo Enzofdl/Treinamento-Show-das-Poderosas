@@ -2,7 +2,7 @@
 
  - [ ] Começar a transitar do C para C++
    - [X] Vector
-   - [X] Metodos de Ordenação
+   - [ ] Metodos de Ordenação
    - [X] STL
    - [ ] Naturalizar C++
          
