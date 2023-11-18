@@ -3,7 +3,7 @@
  - [ ] Começar a transitar do C para C++
    - [X] Vector
    - [X] Metodos de Ordenação
-   - [ ] STL
+   - [X] STL
    - [ ] Naturalizar C++
          
  - [ ] Complexidade
