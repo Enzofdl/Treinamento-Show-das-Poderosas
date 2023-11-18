@@ -3,6 +3,8 @@
 ## Vector
 
 Vector é um vetor alocado dinamicamente em tempo real. Pode ser de qualquer tipo, inclusive dos outros listados abaixo.
+
+
 ### Funções:
   
 
